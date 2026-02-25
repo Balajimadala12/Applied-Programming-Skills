@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -31,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
