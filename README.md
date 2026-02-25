@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0496-next-greater-element-i](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Balajimadala12/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
